@@ -59,9 +59,10 @@ Within a team of 7 students we have built a game of the type city-builder like s
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
- <a href="https://www.microsoft.com/fr-fr/software-download/windows11" target="_blank" rel="noreferrer"> <img src="windows-11.svg" alt="windows11" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/fr-fr/microsoft-365/microsoft-office" target="_blank" rel="noreferrer"> <img src="microsoft-office-2019.svg" alt="microsoft365" width="40" height="40"/> </a> 
-  <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"> <img src="eclipse.svg" alt="eclipse" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/fr-fr/software-download/windows11" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" alt="windows11" width="40" height="40"/> </a>
+  <a href="https://www.ubuntu-fr.org/" target="_blank" rel="noreferrer"> <img src="https://pic.clubic.com/v1/images/1734875/raw.webp?fit=smartCrop&width=550&height=550&hash=dcbb8137a6c117d06333df618362d15a1f7937d5" alt="ubuntu" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/fr-fr/microsoft-365/microsoft-office" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/800px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" alt="microsoft365" width="40" height="40"/> </a> 
+  <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
   <!-- <a href="https://projects.laas.fr/tina/index.php" target="_blank" rel="noreferrer"> <img src="https://projects.laas.fr/tina/images/tina.png" alt="Tina" width="40" height="40" /> </a> -->
 </p>
