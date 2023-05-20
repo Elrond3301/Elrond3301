@@ -43,7 +43,7 @@ Within a team of 7 students we have built a game of the type city-builder like s
   <a href="https://ocaml.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg" alt="ocaml" width="40" height="40"/> </a> 
   <a href="https://julialang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/> </a> 
   <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a> 
-  <a href="https://www.adacore.com/about-ada" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Ada_Mascot_with_slogan.svg" alt="ada" width="40" height="40"/> </a>
+  <a href="https://www.adacore.com/about-ada" target="_blank" rel="noreferrer"> <img src="https://getadanow.com/img/E5.png" alt="ada" width="40" height="40"/> </a>
   <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer"> <img src="https://www.swi-prolog.org/icons/swipl.png" alt="prolog" width="40" height="40"/> </a>
 <!--    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>-->
 
