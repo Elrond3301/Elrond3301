@@ -1,4 +1,4 @@
-### Hi there 👋
+###
 
 <!--
 **Elrond3301/Elrond3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello 😄, my name is Simon Hautesserres</h1>
+<h1 align="center">Hello 😄, my name is Simon Hautesserres !</h1>
 <h4 align="center">A student in second year (M1) at ENSEEIHT (École National Supérieure d’Électrotechnique, d’Électronique, d’Informatique, d’Hydraulique et de Télécommunications) in Digital Sciences</h4>
 
 <h3 align="left">My projects at ENSEEIHT:</h3>
