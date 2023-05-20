@@ -19,15 +19,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">My projects at ENSEEIHT:</h3>
 <details>
-<summary>City Builder</summary>
+<summary></summary>
 <br>
-  <div class="logo"><img src="jeu_1.png" width="150px" align="right"></div>
-Within a team of 7 students we have built a game of the type city-builder like sim-city. The aim of the project was to coordinate all our team in order to build a whole application in java during 4 months.
-  <br/>
-  <br/>
-  You can find the source code here.
-</details>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
