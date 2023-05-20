@@ -41,10 +41,14 @@ Within a team of 7 students we have built a game of the type city-builder like s
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://ocaml.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg" alt="ocaml" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn" alt="html" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo" alt="css" width="40" height="40"/>
   <a href="https://julialang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/> </a> 
-  <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a> 
+  <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" alt="latex" width="40" height="40"/> </a> 
   <a href="https://www.adacore.com/about-ada" target="_blank" rel="noreferrer"> <img src="https://getadanow.com/img/E5.png" alt="ada" width="40" height="40"/> </a>
   <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer"> <img src="https://www.swi-prolog.org/icons/swipl.png" alt="prolog" width="40" height="40"/> </a>
+  <a href="https://lamport.azurewebsites.net/tla/tla.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/6/63/TLA%2B_logo_splash_image.png" alt="TLA+" width="40" height="40"/>
+     
 <!--    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>-->
 
 </p>
