@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hello 😄, my name is Simon Hautesserres !</h1>
 <h4 align="center">I was born and I grew up in Toulouse, the capital of aeronautics and space. It gave me a lot of opportunities to be interested in science, especially in computer science. Thus, I am a second year student in engineering and Digital Sciences at ENSEEIHT. I also have a scientific baccalaureate with honors and I have been an second year undergraduate in Computer Science.</h4>
 
-<h3 align="left">My projects at ENSEEIHT:</h3>
+<!--<h3 align="left">My projects at ENSEEIHT:</h3>
 <details>
 <summary></summary>
 <br>
-</details>
+</details>-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
